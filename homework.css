@@ -11,7 +11,7 @@ nav {
 
   h1 {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 50px;}
   h3 {font-family: "Sofia", sans-serif; font-size: 18px;}
-  p {font-family: "Sofia", sans-serif; font-size: 18px;}
+  p {font-family: "Sofia", sans-serif; font-size: 16px;}
 
   .left {
     float: left;
@@ -46,4 +46,5 @@ nav {
     text-align: left;
     flex-direction: column;
   }
+
  
