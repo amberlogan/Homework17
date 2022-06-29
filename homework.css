@@ -1,0 +1,49 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+    text-align: center;
+    font-family: "Sofia", sans-serif; font-size: 16px;
+  }
+  .inline-block {
+    padding: 15px;
+    display: inline-block;
+  }
+
+  h1 {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 50px;}
+  h3 {font-family: "Sofia", sans-serif; font-size: 18px;}
+  p {font-family: "Sofia", sans-serif; font-size: 18px;}
+
+  .left {
+    float: left;
+    height: 400px;
+    background-color: white;
+    width: 40%;
+    text-align: center;
+  }
+  .right {
+    float: left;
+    background-color: white;
+    height: 400px;
+    width: 60%;
+    text-align: center;
+  }
+
+  .flex_item {
+    padding:20px;
+    margin: 20px;
+    color: black;
+    text-align: left;
+    font-family: monospace; font-size: 16px;
+  }
+  .flex {
+    display: -webkit-inline-flex;
+    padding: 20px;
+    margin: 20px;
+  }
+  #column {
+    height: 500px;
+    width: 100%;
+    text-align: left;
+    flex-direction: column;
+  }
+ 
